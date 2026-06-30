@@ -13,7 +13,7 @@ A full-stack bug tracking application built with Go (backend) and Next.js (front
 - Set priority levels and status
 - Real-time updates
 - Responsive design
-- Comprehensive test coverage (unit, API, E2E, and performance tests)
+- **Comprehensive test coverage** (unit, API, E2E, and performance tests)
 
 ## Prerequisites
 
