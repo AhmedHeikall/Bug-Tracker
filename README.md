@@ -4,7 +4,11 @@
   <img src="bugtracker-frontend/public/bugTracker_Logo.png" alt="Bug Tracker Logo" width="300" height="300"/>
 </p>
 
-A full-stack bug tracking application built with Go (backend) and Next.js (frontend). The application allows users to create, read, update, and delete bug reports, with support for comments and priority levels.
+### A full-stack bug tracking application built with Go (backend) and Next.js (frontend). The application allows users to create, read, update, and delete bug reports, with support for comments and priority levels.
+
+### Developed CI/CD pipelines for a Dockerized full-stack web application using Jenkins,
+### Docker, Playwright, K6, and Git, integrating Unit, API, Integration, End-to-End, and
+### Performance testing with automated deployments to staging and production environments.
 
 ## Features
 
